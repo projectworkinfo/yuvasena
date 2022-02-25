@@ -1,2 +1,0 @@
-# yuvasena
-frontend
